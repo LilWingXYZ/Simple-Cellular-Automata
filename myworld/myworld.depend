@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1505041248 source:c:\users\john\desktop\myworld\enviroment.cpp
+	"Environment.h"
+	<iostream>
+
+1505041430 c:\users\john\desktop\myworld\environment.h
+	"Human.h"
+	"Animal.h"
+	"Plant.h"
+	<iostream>
+
+1505071464 c:\users\john\desktop\myworld\human.h
+	<iostream>
+
+1505071448 c:\users\john\desktop\myworld\animal.h
+	<iostream>
+	"Human.h"
+
+1505071431 c:\users\john\desktop\myworld\plant.h
+	<iostream>
+	"Human.h"
+
+1505071477 source:c:\users\john\desktop\myworld\human.cpp
+	"Human.h"
+	<iostream>
+	<cmath>
+
+1505071484 source:c:\users\john\desktop\myworld\plant.cpp
+	"Plant.h"
+	<iostream>
+	<cmath>
+
+1505189041 source:c:\users\john\desktop\myworld\world.cpp
+	"World.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<fstream>
+	<ctime>
+	<math.h>
+	<string>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+
+1505197001 c:\users\john\desktop\myworld\world.h
+	"Environment.h"
+	"Human.h"
+	"Animal.h"
+	"Plant.h"
+
+1505061605 source:c:\users\john\desktop\myworld\main.cpp
+	"World.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1505071494 source:c:\users\john\desktop\myworld\animal.cpp
+	"Animal.h"
+	<iostream>
+	<cmath>
+

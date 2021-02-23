@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Animal.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1706" topLine="78" />
+	</File>
+	<File name="Animal.h" open="1" top="0" tabpos="7">
+		<Cursor position="166" topLine="0" />
+	</File>
+	<File name="Enviroment.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="2574" topLine="99" />
+	</File>
+	<File name="Environment.h" open="1" top="0" tabpos="11">
+		<Cursor position="92" topLine="0" />
+	</File>
+	<File name="Human.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2234" topLine="78" />
+	</File>
+	<File name="Human.h" open="1" top="0" tabpos="8">
+		<Cursor position="411" topLine="0" />
+	</File>
+	<File name="Plant.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="2234" topLine="78" />
+	</File>
+	<File name="World.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="58196" topLine="1537" />
+	</File>
+	<File name="World.h" open="1" top="1" tabpos="10">
+		<Cursor position="244" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="294" topLine="0" />
+	</File>
+	<File name="plant.h" open="1" top="0" tabpos="9">
+		<Cursor position="165" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
